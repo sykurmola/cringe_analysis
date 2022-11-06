@@ -8,3 +8,5 @@
 [Проверка гипотез по увеличению выручки интернет-магазина и оценка результатов A/B-теста](https://github.com/sykurmola/cringe_analysis/blob/main/ab%20tests/hypotheses%20testing.ipynb)
 
 [Выявление профилей потребления покупателей интернет-магазина](https://github.com/sykurmola/cringe_analysis/tree/main/e-com%20project)
+
+[Прогнозирование вероятности оттока пользователей для фитнес-центра](https://github.com/sykurmola/cringe_analysis/blob/main/ml%20basics/churn%20predicting.ipynb)
