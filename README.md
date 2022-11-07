@@ -10,3 +10,16 @@
 [Выявление профилей потребления покупателей интернет-магазина](https://github.com/sykurmola/cringe_analysis/tree/main/e-com%20project)
 
 [Прогнозирование вероятности оттока пользователей для фитнес-центра](https://github.com/sykurmola/cringe_analysis/blob/main/ml%20basics/churn%20predicting.ipynb)
+
+[Исследование данных Яндекс.Музыки - сравнение пользователей двух городов](https://github.com/sykurmola/cringe_analysis/blob/main/python%20basics/python%20basics.ipynb)
+
+[Исследование надёжности заёмщиков - анализ банковских данных](https://github.com/sykurmola/cringe_analysis/blob/main/data%20preprocessing/credit%20scoring.ipynb)
+
+[Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости](https://github.com/sykurmola/cringe_analysis/blob/main/eda/real%20estate%20market%20eda.ipynb)
+
+[Определение выгодного тарифа для телеком-компании](https://github.com/sykurmola/cringe_analysis/blob/main/statistical%20analysis/telecom%20tariffs.ipynb)
+
+[Изучение закономерностей, определяющих успешность игр](https://github.com/sykurmola/cringe_analysis/blob/main/first%20module%20project/gamedev.ipynb)
+
+[Анализ убытков приложения ProcrastinatePRO+](https://github.com/sykurmola/cringe_analysis/blob/main/bi/entertainment%20app%20losses.ipynb)
+
