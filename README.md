@@ -23,3 +23,6 @@
 
 [Анализ убытков приложения ProcrastinatePRO+](https://github.com/sykurmola/cringe_analysis/blob/main/bi/entertainment%20app%20losses.ipynb)
 
+[Исследование рынка заведений общственного питания Москвы](https://github.com/sykurmola/cringe_analysis/blob/main/data%20visualization/msc%20catering.ipynb)
+
+[Исследование поведения пользователей сервиса для покупки продуктов](https://github.com/sykurmola/cringe_analysis/blob/main/second%20module%20project/in-app%20behavior.ipynb)
